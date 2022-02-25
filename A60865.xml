@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some short remarks upon the present state of affairs in a letter to a member of the Honourable House of Commons</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60865</idno>
+            <idno type="STC">Wing S4617</idno>
+            <idno type="STC">ESTC R11546</idno>
+            <idno type="EEBO-CITATION">11910545</idno>
+            <idno type="OCLC">ocm 11910545</idno>
+            <idno type="VID">50800</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60865)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50800)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 514:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some short remarks upon the present state of affairs in a letter to a member of the Honourable House of Commons</title>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Bentley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  1689-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:50800:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <pb facs="tcp:50800:2"/>
+            <!-- PDF PAGE 44 -->
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Edmund Bohun.</signed>
+               <dateline>
+                  <date>Novemb. 22. 1692.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:50800:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 44 -->
+            <p>SOME SHORT REMARKS Upon the Preſent State of Affairs; In a LETTER to a MEMBER Of the HONOURABLE <hi>Houſe of Commons,</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Bentley</hi> in <hi>Ruſſel-ſtreet, Covent-Garden,</hi> 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:50800:3"/>
+            <!-- PDF PAGE 45 -->
+            <pb n="1" facs="tcp:50800:3"/>
+            <!-- PDF PAGE 45 -->
+            <head>Some ſhort Remarks upon the preſent State of Affairs; In a Letter to a Mem<g ref="char:EOLhyphen"/>ber of the Honourable Houſe of <hi>Commons.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOu deſire me to repeat to you the Subſtance of our laſt Diſcourſe, relating to the preſent State of the Nation; In which I ſhould find ſome Difficulty to comply with you, if the Reaſons, you give, were not too ſtrong to be contended with. But you may be aſſur'd, that your Promiſe to conceal my Name, is not the weakeſt Argument you have us'd, to make me publiſh my Thoughts. For, as Truth has her Credentials writ in her Face, and needs not the Support ei<g ref="char:EOLhyphen"/>ther of Perſons or Parties, where ſhe meets with ſound Under<g ref="char:EOLhyphen"/>ſtandings: So I would not willingly be oblig'd to <hi>anſwer</hi> every <hi>Fool in his Folly.</hi>
+            </p>
+            <p>Our Nation is to be conſider'd as a Man that is brought by Diſtempers into an ill Habit of Body. And, to make a right Judgment of our Diſeaſe, we muſt enquire into the Riſe and Progreſs of it. To which end we muſt look back as far as the Reign of King <hi>Charles</hi> the Firſt.</p>
+            <p>The unhappy Occurrences of thoſe Times put the Nation in a Ferment, that has never ſince been throughly ſettled, and was the Seed from which our preſent Misfortunes are grown. All <hi>England</hi> was divided into Parties, and the Youth of the Nation, that was then ſpringing up, took their firſt Tinctures from their reſpective Factions; which bred a certain Hatred and Animoſity, that grew up with them, and became Natural. Inſomuch that every Man was eſteem'd, not according to his real Value, but according to the Opinion that was held of his Party.</p>
+            <p>
+               <pb n="2" facs="tcp:50800:4"/>
+               <!-- PDF PAGE 46 -->
+When this Tragedy of the State was wrought up to a <hi>Criſis,</hi> and the Scenes were ſtain'd with Royal Blood; the young Prin<g ref="char:EOLhyphen"/>ces were tranſplanted to a Soil wholly improper for 'em. For they fell into the Hands of Miniſters, that wanted neither Wit nor Malice, to make uſe of ſuch a Turn. Who imagin'd, being Maſters of our Source, eaſily to pollute our Streams. And in<g ref="char:EOLhyphen"/>deed they did it effectually. For when another Turn of Things happily brought in the King, Experience tells us what Foreign Principles and Maxims he unhappily brought in with him.</p>
+            <p>But being a Prince that valued his Eaſe and Pleaſure above all Conſiderations whatſoever, he never puſh'd his Deſigns farther, than to gratifie his Senſes, and keep fair with all the World. Which made his Miniſters ſtudy Cunning more than Prudence; and all ſorts of Juggling grew univerſally in Faſhion. The Mask was taken off. Honour and Truſt were publickly bought and ſold; and thoſe who had Employ<g ref="char:EOLhyphen"/>ments, ſtudy'd more to get Money by 'em, than how to execute 'em well. All this made ſuch a Confuſion of Perſons and Things, that the Diſeaſe of the Body Politick diſpers'd it ſelf though every Part; and the Noble Parts were not the leaſt affected. For the Luxury and Supineſs of the Court (as is uſual in all ſuch Caſes) was attended with an Exceſs of Ill Management. And when the Publick Treaſures were drain'd pretty near the Bottom, the moſt valuable Intereſts, as well as Secrets, of the Nation were ſold to <hi>France,</hi> to ſupport a lazie and ignoble Gallantry. And at the ſame Time the Youth of our Nobility and Gentry were ſent thi<g ref="char:EOLhyphen"/>ther to be educated, and learn the Faſhion in their Principles as well as Dreſs. For the Miniſters of <hi>France</hi> were in the Bottom of all this, being as active and plotting, as we were idle and unthinking.</p>
+            <p>
+               <pb n="3" facs="tcp:50800:4"/>
+               <!-- PDF PAGE 46 -->
+And here I cannot but take Notice of one of the blackeſt Contrivances, that ever perhaps was form'd. A Deſign was laid to bring in Popery among us; and in order to this, 'twas thought neceſſary firſt to remove the Religion we had, that we might afterwards be more capable of receiving a new one. To promote this there wanted neither Precept nor Example, Atheiſm, Irreligion, and Ill Nature (the Fundamental Prin<g ref="char:EOLhyphen"/>ciples of all Villany) were ſet up by ſome of the keeneſt Wits of the Age (I do not ſay the ſoundeſt) as Principles of Philoſophy; and not ill ſeconded by the Practices of the Court. Don't think I am canting (for you know me to be neither a Bigot, nor a Hypocrite) when I tell you, that no State in the World ever flouriſh'd, where Religion of ſome ſort or other) was not ſeriouſly profeſs'd and publickly coun<g ref="char:EOLhyphen"/>tenanc'd; nor indeed can Natural Cauſes, any more than Providence, admit it to be otherwiſe.</p>
+            <p>But (to return to what I was ſaying) the Principles and Practices of the Court grew at laſt ſo notorious, and the Na<g ref="char:EOLhyphen"/>tion was ſo tir'd with being often trick'd and deceiv'd, that Men of Senſe and Honeſty began to have their Eyes open, and to take ſuch Meaſures as the Occaſion made neceſſary. This reviv'd and fomented the Diviſion between the Court and the Countrey; inſomuch that a Man could not be a Friend to the one, without declaring himſelf an Enemy to the other.</p>
+            <p>When this unhappy Prince concluded his Reign, the raſh and unſteady Conduct of his Succeſſor was ſo far from ſet<g ref="char:EOLhyphen"/>tling the tottered State, that he quickly drove Things to the laſt Extremities. And of what immediately enſued the Im<g ref="char:EOLhyphen"/>preſſions are ſtill freſh upon all our Minds.</p>
+            <p>But now we have a new Scene of Things, and are arriv'd at another <hi>Criſis,</hi> that muſt for ever ruin or confirm the Religion,
+<pb n="4" facs="tcp:50800:5"/>
+               <!-- PDF PAGE 47 -->Honour, Laws, and Liberties of <hi>England;</hi> A <hi>Criſis,</hi> which if not prudently and nicely manag'd, is likely to prove our laſt. For a ſmall Portion of Experience, and a moderate Knowledge of what has paſs'd in the World (with but a competent Meaſure of Common Senſe) will make it clearly and diſtinctly evident to any Man, that if this Settlement fails, or the <hi>French</hi> Power breaks in upon us, <hi>England</hi> (as a free Nation) is for ever loſt. Which is clearly demonſtrated by reducing the whole Matter to theſe three Points.</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> Either we muſt ſubmit to the Power of <hi>France.</hi> Or,</item>
+               <item>
+                  <hi>Secondly,</hi> We muſt bring back the late King <hi>James,</hi> which will (in its Conſequences) be much the ſame Thing. Or,</item>
+               <item>
+                  <hi>Thirdly,</hi> We muſt reſolve vigorouſly to ſupport the preſent Government againſt all its Enemies, Domeſtick and Foreign.</item>
+            </list>
+            <p>Now as to the Firſt of theſe; No Wiſe or Honeſt Man can ever ſo much as entertain a Thought of ſubmitting to a <hi>French</hi> Power. If we conſider how inhumanly that Prince tyrannizes over his own Native Subjects, and how barbarouſly he tramples upon his New Conqueſts. And in all his Cruelties, and Perſe<g ref="char:EOLhyphen"/>cutions, has no regard either to Merit, Age, or Sex; We muſt be blind not to read our own Doom, if ever we ſhou'd fall under the Weight of his Power. And</p>
+            <p>Secondly, to think of bringing back the late King <hi>James,</hi> wou'd be ſo few Degrees from Driveling, (unleſs in ſuch as are that way inclined from ill Principles and Deſigns) that we cou'd not take it amiſs, if the Favourites that came in with him, ſhould beg us all for Fools, and ſo enjoy our Eſtates. If ever we ſink into ſuch a ſtupidity, we need not be Conjurers to tell our own Fortunes. Therefore</p>
+            <p>Thirdly, We muſt reſolve vigorouſly to ſupport the preſent Government againſt all its Enemies Domeſtick and Foreign.
+<pb n="5" facs="tcp:50800:5"/>
+               <!-- PDF PAGE 47 -->We muſt indeed. And we ſhall certainly do it, if the Cunning of our Falſe Brethren does not impoſe upon the Ignorance of our Weak ones. For, not to mention all the different Characters of Men, of which we are at this Time unhappily compos'd, there are two ſorts, which, though they ſeem to ſail with the ſame Wind, ſteer different Courſes: And as much as they agree in their Language and Style, yet have oppoſite Meanings. At the ſame Time that the Enemies of our Government are ſtudi<g ref="char:EOLhyphen"/>ouſly improving all Occaſions, to interrupt our wiſeſt Debates, and to daſh and perplex our matureſt Councils, by hollow Rea<g ref="char:EOLhyphen"/>ſonings, pretended Difficulties, and frivolous Enquiries; Our miſtaken Friends (I ſpeak as an <hi>Engliſh</hi>-man) are unadviſedly led into the ſame Errors, though with an honeſter Intention. Now as 'tis impoſſible to know Men in this general Maſquerade, it highly imports a Wiſe and Honeſt Man to take his Meaſures rather from the Nature of Things, than the Countenances of Men; And laying aſide all manner of Prejudice or Partiality, diligently to attend the Dictates of Right Reaſon in ſo important a Conjuncture.</p>
+            <p>This wou'd lead Men into clear and untroubled Notions of Things, and ſecure 'em from being fooliſhly made the Inſtruments of their own Deſtruction. For our Foreign (as well as our Do<g ref="char:EOLhyphen"/>meſtick) Adverſaries look upon our undiſcreet Proceedings, as the beſt Foundation of all their Hopes; and ſpare neither Coſt, nor Pains, to promote our Heats and Differences. They divert themſelves with our Folly, and are pleas'd with the Thoughts of our approaching Ruine. And nothing but a faithful Enquiry in<g ref="char:EOLhyphen"/>to the Nature of Things, with a diligent Attention to the Di<g ref="char:EOLhyphen"/>ctates of Right Reaſon (as I ſaid before) nothing elſe can ſave us. That indeed like an alterative Medicine will correct our ill Humours, and reſtore us inſenſibly to a ſtate of Health. 'Twill inſtruct us how to begin all our Reaſonings at the right end; and by equally weighing the Conſequences of Things, to give every Conſideration it's true Weight and Force. As for Inſtance,</p>
+            <p>
+               <pb n="6" facs="tcp:50800:6"/>
+               <!-- PDF PAGE 48 -->
+To Reaſon profitably of the Affairs of <hi>England</hi> in ſo perplex'd a Conjuncture as this is, a Man muſt know and conſider well the true Conſtitution of our Government: He muſt purge off the corrupt Notions, he ſuck'd in with his Mother's Milk, and for<g ref="char:EOLhyphen"/>get what he learn't in the Nurſery, or at School; not be influenc'd in the leaſt with a fondneſs of either Perſons, or Parties. For a Man to oppoſe the Court, and make an Intereſt againſt it, in the Reign of a Juſt and Wiſe Prince (whoſe Intereſts are the ſame with our's) becauſe his Father did it at a time when our Religion, Laws, and Liberties, were viſible ſtruck at; is juſt as if I muſt needs ſuffer a dangerous Operation, becauſe my Fa<g ref="char:EOLhyphen"/>ther had a Stone in his Bladder. The Intereſt of the Court and the Intereſt of the Country are in Nature the ſame, and a diffe<g ref="char:EOLhyphen"/>rence between 'em is downright Nonſenſe, unleſs either when the One, or the Other, deſigns an Alteration in the Government; The firſt with a View of Oppreſſion and Tyranny, the latter of a Republick. As for the firſt of theſe; his preſent Majeſty has given us ſuch conſtant and ſenſible Marks of his hearty Con<g ref="char:EOLhyphen"/>cern, and unweary'd Care for the Publick Good, that 'twould be very diſingenious and ungrateful to ſuſpect him; beſides that there is a certain Air of Plainneſs, and Integrity in all his Words and Actions; which are always a ſure Mark of a Generous and Honeſt Mind. Nor cou'd his Intereſts lead him amiſs, if his Inclinations did. And as for the other Deſign, I mean of a Re<g ref="char:EOLhyphen"/>publick, I believe the Experiment that was made in the Reign of King <hi>Charles</hi> the Firſt (tho' attended with a Series of ſtrange Succeſſes) had ſuch diſmal and terrible Conſequences, that all judicious and skilful Men muſt needs conclude ſuch Deſigns to be as unpracticable as they are unjuſt.</p>
+            <p>The Matter thus ſtated, why ſhould a Diviſion be kept on foot, by which both Parties will certainly ſuffer? I do not love to judge raſhly in any Caſe; but I think we may ſafely conclude here, That whoever promotes or foments any ſuch Deſign (di<g ref="char:EOLhyphen"/>rectly or indirectly) muſt needs have ſomething out of order, either in his Head, or in his Heart.</p>
+            <p>
+               <pb n="7" facs="tcp:50800:6"/>
+               <!-- PDF PAGE 48 -->
+But (as you told me, when I had the Honour to diſcourſe with you laſt) great Complaints are made of the ill Manage<g ref="char:EOLhyphen"/>ment of the Government: Now (Sir) we muſt remember, That in all Arts the Inſtruments are to be conſider'd as well as the Work-men. And I am afraid (with all the reſpect that is due to my Native Country) that we are grown a little ruſty with the Luxury and Idleneſs into which the late Reigns have lull'd us; and our Edges are blunted with an exceſs of Plea<g ref="char:EOLhyphen"/>ſure and Debauchery, The Youth of our Nobility and Gen<g ref="char:EOLhyphen"/>try want the Advantages of Education (to make them uſeful to their King and Countrey) which thoſe of our Enemy's have, who are early inſtructed as well in all uſeful Learning, as well as in the Art of War. And (as I remark'd to you before) the pernicious Councils, that took place in the Two laſt Reigns, have introduc'd ſuch a total Corruption of Perſons and Things, as has thrown the Body Politick into an ill Habit; and 'tis not in Nature to be expected, that a perfect Cure can be wrought without a little Time and Patience. But a great many People ſuſpect an ill Management, only for want of Succeſs; not con<g ref="char:EOLhyphen"/>ſidering from whence Succeſs comes, and that 'tis to be courted, not commanded. Whereas if they were truly inform'd of the great and numerous Difficulties that His Majeſty meets with; and with what unweary'd Vigour he renews his Appli<g ref="char:EOLhyphen"/>cation; when (thro' the Failures of others) his Deſigns prove unſucceſsful; they wou'd be more inclin'd to Admiration than Cenſure. If any one ſays, That the making Uſe of good Inſtruments depends upon His Majeſty; it may be anſwered, That no Man ought to blame His Choice, without being ac<g ref="char:EOLhyphen"/>quainted with all the Reaſons he had for it. If <hi>Solomon</hi> him<g ref="char:EOLhyphen"/>ſelf cou'd be ſuppos'd to come among us, in ſuch a confus'd and diſtracted a Conjuncture as this is, he wou'd be at a loſs (for ſome time) what Meaſures to take. Upon the whole Matter, I am fully perſwaded (and indeed no Thinking Man can be of any other Opinion) That whatever ill Management there has been, His Majeſty has done all that was poſſible (on his part)
+<pb n="8" facs="tcp:50800:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 49 -->to prevent it. He is in the ſame Bottom with us, as <hi>Engliſh</hi>-Men, Proteſtants, and Honeſt Men; and 'tis a Madneſs to think that he will not take all poſſible care of himſelf and the Nation. And one good Argument (among many others) to convince us of His good Intentions towards us, is, His Asking Advice of the Parliament (in His late Gracious Speech) with ſo much Heartineſs and Sincerity.</p>
+            <p>In Return to which, it wou'd contribute very much to the Honour, and Credit of Parliaments; and be of infinite Advan<g ref="char:EOLhyphen"/>tage to the Publick, if you wou'd enter upon no unſeaſonable Debates, nor frivolous Inquiries; but obſerve in all your Pro<g ref="char:EOLhyphen"/>ceedings that Calmneſs and Solidity that becomes the Dignity of ſo great a Council. 'Tis good in all Occaſions to diſtinguiſh between what is Solid, and what is Trivial; but in Affairs of Importance, 'tis of abſolute Neceſſity: For want of diſtinguiſh<g ref="char:EOLhyphen"/>ing theſe Two Things, your Time may be miſpent, your beſt Deſigns fruſtrated, and all your Labour loſt.</p>
+            <p>In a word, the Fate of <hi>England</hi> (and of all <hi>Europe</hi>) is be<g ref="char:EOLhyphen"/>fore you: You are ſurrounded with active and ſubtle Enemies, that will omit no Stratagems, by which 'tis poſſible to miſlead you: You have an Opportunity to be the Inſtruments of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>'s Glory and Happineſs; which, if loſt, can never be re<g ref="char:EOLhyphen"/>call'd. But if you act Prudently and Sincerely (uninfluenc'd by all ſorts of Prejudice) you will lay the Foundation of your own Honour, and your Countrey's Proſperity.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
